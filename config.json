@@ -1,0 +1,9 @@
+{
+    "host": "",
+    "server_port": 4200,
+    "using_connection_string": true,
+    "connection_string": "mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false",
+    "db_user": "yeswanth",
+    "db_pass": "tamil0508",
+    "session_secret": "SCRAM"
+}
